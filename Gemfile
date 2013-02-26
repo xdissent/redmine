@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem "unicorn", "4.6.1", group: "production"
 gem 'rails', '3.2.12'
 gem "jquery-rails", "~> 2.0.2"
 gem "i18n", "~> 0.6.0"
